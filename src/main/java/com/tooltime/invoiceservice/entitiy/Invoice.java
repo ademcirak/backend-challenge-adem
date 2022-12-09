@@ -1,4 +1,4 @@
-package com.tooltime.invoiceservice.repository;
+package com.tooltime.invoiceservice.entitiy;
 
 
 import lombok.Getter;
